@@ -4,8 +4,12 @@
 
 ### Gulp
 
-The gulp setup is in the gulp folder and the next level is named by node version.
+Gulp setup in gulp folder with sub folders for node versions.
 
 ### Gulp compass
 
 Same as gulp but with compass added to the image.
+
+### Grunt
+
+Grunt setup in grunt folder with sub folders for node versions.
